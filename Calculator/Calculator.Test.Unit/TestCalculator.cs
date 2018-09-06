@@ -62,9 +62,9 @@ namespace Calculator.Test.Unit
             Assert.That(uut_.Divide(dividend, divisor), Is.EqualTo(result));
         }
 
-        [TestCase(8, 2, 1, 4)]
+        [TestCase(16, 2, 2, 4)]
         [TestCase(0, 2, 2, 0)]
-        [TestCase(-8, 2, 2, -2)]
+        [TestCase(-4, 2, 2, -1)]
         [TestCase(-12, 2, -3, 2)]
         public void Deep_Divide2(double a, double b,
             double c, double d)
