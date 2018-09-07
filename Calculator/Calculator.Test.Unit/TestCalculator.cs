@@ -30,6 +30,7 @@ namespace Calculator.Test.Unit
         [TestCase(-5, -2, -3)]
         [TestCase(17, 64, -47)]
         [TestCase(2, 3, -1)]
+        [TestCase(65, 44, 21)]
         public void Deep_Subtract(int a, int b, int result)
         {
             Assert.That(uut_.Subtract(a, b), Is.EqualTo(result));
@@ -39,6 +40,7 @@ namespace Calculator.Test.Unit
         [TestCase(0, 64, 0)]
         [TestCase(0, 0, 0)]
         [TestCase(3, -2, -6)]
+        [TestCase(4, 8, 32)]
         public void Deep_Multiply(int a, int b, int result)
         {
             Assert.That(uut_.Multiply(a, b), Is.EqualTo(result));
@@ -48,6 +50,7 @@ namespace Calculator.Test.Unit
         [TestCase(8, 2, 64)]
         [TestCase(1, 10, 1)]
         [TestCase(92, 0, 1)]
+        [TestCase(6, 3, 216)]
         public void Deep_Power(int x, int exp, int result)
         {
             Assert.That(uut_.Power(x, exp), Is.EqualTo(result));
@@ -57,6 +60,7 @@ namespace Calculator.Test.Unit
         [TestCase(0, 2, 0)]
         [TestCase(-4, 2, -2)]
         [TestCase(100, 100, 1)]
+        [TestCase(49, 7, 7)]
         public void Deep_Divide(int dividend, int divisor, int result)
         {
             Assert.That(uut_.Divide(dividend, divisor), Is.EqualTo(result));

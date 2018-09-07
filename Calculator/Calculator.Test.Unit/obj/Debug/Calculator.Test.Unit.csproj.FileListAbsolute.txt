@@ -26,3 +26,18 @@ C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4SWT\TeamSWT5\Calculat
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4SWT\TeamSWT5\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csproj.CoreCompileInputs.cache
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4SWT\TeamSWT5\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.dll
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4SWT\TeamSWT5\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.pdb
+C:\Users\David\Desktop\repos\Calculator\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.dll
+C:\Users\David\Desktop\repos\Calculator\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.pdb
+C:\Users\David\Desktop\repos\Calculator\Calculator.Test.Unit\bin\Debug\Calculator.Application.exe
+C:\Users\David\Desktop\repos\Calculator\Calculator.Test.Unit\bin\Debug\Calculator.dll
+C:\Users\David\Desktop\repos\Calculator\Calculator.Test.Unit\bin\Debug\nunit.framework.dll
+C:\Users\David\Desktop\repos\Calculator\Calculator.Test.Unit\bin\Debug\Calculator.Application.pdb
+C:\Users\David\Desktop\repos\Calculator\Calculator.Test.Unit\bin\Debug\Calculator.Application.exe.config
+C:\Users\David\Desktop\repos\Calculator\Calculator.Test.Unit\bin\Debug\Calculator.pdb
+C:\Users\David\Desktop\repos\Calculator\Calculator.Test.Unit\bin\Debug\nunit.framework.pdb
+C:\Users\David\Desktop\repos\Calculator\Calculator.Test.Unit\bin\Debug\nunit.framework.xml
+C:\Users\David\Desktop\repos\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csprojAssemblyReference.cache
+C:\Users\David\Desktop\repos\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\repos\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csproj.CopyComplete
+C:\Users\David\Desktop\repos\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.dll
+C:\Users\David\Desktop\repos\Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.pdb
