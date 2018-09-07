@@ -67,10 +67,10 @@ namespace Calculator.Test.Unit
         [TestCase(-4, 2, 2, -1)]
         [TestCase(-12, 2, -3, 2)]
         public void Deep_Divide2(double a, double b,
-            double c, double d)
+            double c, double result)
         {
             uut_.Divide(a, b);
-            Assert.That(uut_.Divide(c), Is.EqualTo(d));
+            Assert.That(uut_.Divide(c), Is.EqualTo(result));
         }
     }
 }
