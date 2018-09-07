@@ -60,7 +60,7 @@ namespace Calculator.Test.Unit
         [TestCase(0, 2, 0)]
         [TestCase(-4, 2, -2)]
         [TestCase(100, 100, 1)]
-        [TestCase(49, 7, 7)]
+        [TestCase(64, 8, 8)]
         public void Deep_Divide(int dividend, int divisor, int result)
         {
             Assert.That(uut_.Divide(dividend, divisor), Is.EqualTo(result));

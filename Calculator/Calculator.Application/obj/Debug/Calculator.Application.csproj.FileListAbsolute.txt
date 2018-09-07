@@ -26,3 +26,13 @@ C:\Users\David\Desktop\repos\Calculator\Calculator.Application\obj\Debug\Calcula
 C:\Users\David\Desktop\repos\Calculator\Calculator.Application\obj\Debug\Calculator.Application.csproj.CopyComplete
 C:\Users\David\Desktop\repos\Calculator\Calculator.Application\obj\Debug\Calculator.Application.exe
 C:\Users\David\Desktop\repos\Calculator\Calculator.Application\obj\Debug\Calculator.Application.pdb
+C:\Users\David\Desktop\SWT-repos\Calculator\Calculator.Application\bin\Debug\Calculator.Application.exe.config
+C:\Users\David\Desktop\SWT-repos\Calculator\Calculator.Application\bin\Debug\Calculator.Application.exe
+C:\Users\David\Desktop\SWT-repos\Calculator\Calculator.Application\bin\Debug\Calculator.Application.pdb
+C:\Users\David\Desktop\SWT-repos\Calculator\Calculator.Application\bin\Debug\Calculator.dll
+C:\Users\David\Desktop\SWT-repos\Calculator\Calculator.Application\bin\Debug\Calculator.pdb
+C:\Users\David\Desktop\SWT-repos\Calculator\Calculator.Application\obj\Debug\Calculator.Application.csprojAssemblyReference.cache
+C:\Users\David\Desktop\SWT-repos\Calculator\Calculator.Application\obj\Debug\Calculator.Application.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\SWT-repos\Calculator\Calculator.Application\obj\Debug\Calculator.Application.csproj.CopyComplete
+C:\Users\David\Desktop\SWT-repos\Calculator\Calculator.Application\obj\Debug\Calculator.Application.exe
+C:\Users\David\Desktop\SWT-repos\Calculator\Calculator.Application\obj\Debug\Calculator.Application.pdb
