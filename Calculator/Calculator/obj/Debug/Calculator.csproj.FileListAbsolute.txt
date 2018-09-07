@@ -10,3 +10,9 @@ C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4SWT\TeamSWT5\Calculat
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4SWT\TeamSWT5\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4SWT\TeamSWT5\Calculator\Calculator\obj\Debug\Calculator.dll
 C:\Users\Danny\OneDrive - Aarhus universitet\4. Semester\I4SWT\TeamSWT5\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\David\Desktop\repos\Calculator\Calculator\bin\Debug\Calculator.dll
+C:\Users\David\Desktop\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\David\Desktop\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\David\Desktop\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\repos\Calculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\David\Desktop\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
